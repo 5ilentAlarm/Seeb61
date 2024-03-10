@@ -1,8 +1,6 @@
 # seebexpanded
 
-![seebexpanded](imgur.com image replace me!)
-
-*A short description of the keyboard/project*
+60% Fully through-hole keyboard. Why? Not sure... I had a pro micro laying around and decided to go for it. I shortened the backspace key to make room for the rotary encoder since I like that positioning much more. 
 
 * Keyboard Maintainer: [Sebastian](https://github.com/SebastianMn4345)
 * Hardware Supported: *The PCBs, controllers supported*
